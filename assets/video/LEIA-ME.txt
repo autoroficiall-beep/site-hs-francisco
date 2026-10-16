@@ -1,0 +1,3 @@
+hero.mp4 : vídeo de fundo da página inicial (H.264, 720p, 10 a 15 s, sem áudio, até cerca de 3 MB).
+trabalhos/ : vídeos dos trabalhos (MP4). Registe-os em assets/js/trabalhos-data.js.
+assets/img/hero-poster.jpg : imagem mostrada enquanto o vídeo carrega.
